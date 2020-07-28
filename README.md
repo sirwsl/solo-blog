@@ -10,8 +10,9 @@
 
 ### 最新
 
+* [设计模式:Singleton(单例模式)--创建型模式](https://www.wslhome.top/articles/2020/07/28/1595927146159.html)
+* [数据库连接转义字符问题](https://www.wslhome.top/articles/2020/07/28/1595866427122.html)
 * [云服务器内存不够解决办法](https://www.wslhome.top/articles/2020/07/20/1595254904833.html)
-* [暑假假期计划](https://www.wslhome.top/articles/2020/07/09/1594279652956.html)
 * [solo更新](https://www.wslhome.top/articles/2020/07/08/1594191278868.html)
 * [nginx反向代理CSS、JS无法加载](https://www.wslhome.top/articles/2020/07/08/1594190828699.html)
 * [java并发编程之基础讲解（一）](https://www.wslhome.top/articles/2020/07/01/1593592456396.html)
@@ -29,7 +30,6 @@
 * [docker部署jar包](https://www.wslhome.top/articles/2020/06/07/1591541277838.html)
 * [小王踩坑记](https://www.wslhome.top/articles/2020/06/07/1591540161090.html)
 * [docker + Linux部分常用命令](https://www.wslhome.top/articles/2020/06/07/1591498907666.html)
-* [浅谈Restful](https://www.wslhome.top/articles/2020/05/25/1590396820627.html)
 
 
 
