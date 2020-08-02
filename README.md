@@ -1,4 +1,4 @@
-<p align="center"><img alt="给梦想一点时间,让它一步步成长" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="给梦想一点时间,让它一步步成长" src="https://b3logfile.com/avatar/1588874010907_1591960013221.jpeg"></p><h2 align="center">
 给梦想一点时间,让它一步步成长
 </h2>
 
@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [springboot 进阶（草稿）](https://www.wslhome.top/articles/2020/08/02/1596371777184.html)
+* [热部署的那些事](https://www.wslhome.top/articles/2020/08/01/1596266112263.html)
 * [Mybatis从0到1（基础进阶教程）](https://www.wslhome.top/articles/2020/07/30/1596090643255.html)
 * [设计模式:Adapter(适配器)--类对象结构型模式](https://www.wslhome.top/articles/2020/07/29/1596016678167.html)
 * [设计模式:Singleton(单例模式)--创建型模式](https://www.wslhome.top/articles/2020/07/28/1595927146159.html)
@@ -28,8 +30,6 @@
 * [Redis搭建与基础知识](https://www.wslhome.top/articles/2020/06/12/1591944857524.html)
 * [设计模式:Factory method(工厂模式)--创建型模式](https://www.wslhome.top/articles/2020/06/10/1591789258840.html)
 * [设计模式:Builder(生成器)--创建型模式](https://www.wslhome.top/articles/2020/06/10/1591783622594.html)
-* [设计模式:Abstract Factory(抽象工厂)--创建型模式](https://www.wslhome.top/articles/2020/06/10/1591780102615.html)
-* [docker部署jar包](https://www.wslhome.top/articles/2020/06/07/1591541277838.html)
 
 
 
