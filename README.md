@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Synchronized关键字解析](https://www.wslhome.top/articles/2020/08/03/1596450548212.html)
 * [springboot 进阶（草稿）](https://www.wslhome.top/articles/2020/08/02/1596371777184.html)
 * [热部署的那些事](https://www.wslhome.top/articles/2020/08/01/1596266112263.html)
 * [Mybatis从0到1（基础进阶教程）](https://www.wslhome.top/articles/2020/07/30/1596090643255.html)
@@ -29,7 +30,6 @@
 * [随便聊聊Redis五种数据格式](https://www.wslhome.top/articles/2020/06/16/1592312645001.html)
 * [Redis搭建与基础知识](https://www.wslhome.top/articles/2020/06/12/1591944857524.html)
 * [设计模式:Factory method(工厂模式)--创建型模式](https://www.wslhome.top/articles/2020/06/10/1591789258840.html)
-* [设计模式:Builder(生成器)--创建型模式](https://www.wslhome.top/articles/2020/06/10/1591783622594.html)
 
 
 
