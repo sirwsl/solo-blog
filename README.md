@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [zookeeper\rabbitMQ安装](https://www.wslhome.top/articles/2020/08/05/1596595872827.html)
+* [任何数的阶乘计算](https://www.wslhome.top/articles/2020/08/03/1596468432750.html)
 * [Synchronized关键字解析](https://www.wslhome.top/articles/2020/08/03/1596450548212.html)
 * [springboot 进阶（草稿）](https://www.wslhome.top/articles/2020/08/02/1596371777184.html)
 * [热部署的那些事](https://www.wslhome.top/articles/2020/08/01/1596266112263.html)
@@ -28,8 +30,6 @@
 * [Redis进阶（事务、锁、删除策略、逐出算法）](https://www.wslhome.top/articles/2020/06/17/1592377207134.html)
 * [redis持久化（RDB与AOF）的方式比较](https://www.wslhome.top/articles/2020/06/16/1592312734423.html)
 * [随便聊聊Redis五种数据格式](https://www.wslhome.top/articles/2020/06/16/1592312645001.html)
-* [Redis搭建与基础知识](https://www.wslhome.top/articles/2020/06/12/1591944857524.html)
-* [设计模式:Factory method(工厂模式)--创建型模式](https://www.wslhome.top/articles/2020/06/10/1591789258840.html)
 
 
 
