@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [秋招情况](https://www.wslhome.top/articles/2020/08/26/1598452585984.html)
 * [zookeeper\rabbitMQ安装](https://www.wslhome.top/articles/2020/08/05/1596595872827.html)
 * [任何数的阶乘计算](https://www.wslhome.top/articles/2020/08/03/1596468432750.html)
 * [Synchronized关键字解析](https://www.wslhome.top/articles/2020/08/03/1596450548212.html)
@@ -29,7 +30,6 @@
 * [redis进阶---redis集群（一）：主从复制](https://www.wslhome.top/articles/2020/06/20/1592648158747.html)
 * [Redis进阶（事务、锁、删除策略、逐出算法）](https://www.wslhome.top/articles/2020/06/17/1592377207134.html)
 * [redis持久化（RDB与AOF）的方式比较](https://www.wslhome.top/articles/2020/06/16/1592312734423.html)
-* [随便聊聊Redis五种数据格式](https://www.wslhome.top/articles/2020/06/16/1592312645001.html)
 
 
 
