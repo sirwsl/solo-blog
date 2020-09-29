@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [java常用注解使用  二（Spring系列）](https://www.wslhome.top/articles/2020/09/28/1601223123315.html)
+* [Rabbit MQ小白入门](https://www.wslhome.top/articles/2020/09/27/1601216251520.html)
 * [秋招情况](https://www.wslhome.top/articles/2020/08/26/1598452585984.html)
 * [zookeeper\rabbitMQ安装](https://www.wslhome.top/articles/2020/08/05/1596595872827.html)
 * [任何数的阶乘计算](https://www.wslhome.top/articles/2020/08/03/1596468432750.html)
@@ -28,8 +30,6 @@
 * [Redis进阶--企业级解决方案](https://www.wslhome.top/articles/2020/06/24/1592967731619.html)
 * [redis进阶---redis集群（二）：（哨兵、集群）](https://www.wslhome.top/articles/2020/06/22/1592827882457.html)
 * [redis进阶---redis集群（一）：主从复制](https://www.wslhome.top/articles/2020/06/20/1592648158747.html)
-* [Redis进阶（事务、锁、删除策略、逐出算法）](https://www.wslhome.top/articles/2020/06/17/1592377207134.html)
-* [redis持久化（RDB与AOF）的方式比较](https://www.wslhome.top/articles/2020/06/16/1592312734423.html)
 
 
 
