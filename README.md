@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [idea中的VM参数参数调优](https://www.wslhome.top/articles/2020/10/11/1602397754100.html)
+* [阿里代码规约考试（java）](https://www.wslhome.top/articles/2020/10/11/1602396542246.html)
 * [lambda表达式之美](https://www.wslhome.top/articles/2020/10/05/1601888351694.html)
 * [java常用注解使用  二（Spring系列）](https://www.wslhome.top/articles/2020/09/28/1601223123315.html)
 * [Rabbit MQ小白入门](https://www.wslhome.top/articles/2020/09/27/1601216251520.html)
@@ -28,8 +30,6 @@
 * [nginx反向代理CSS、JS无法加载](https://www.wslhome.top/articles/2020/07/08/1594190828699.html)
 * [java并发编程之基础讲解（一）](https://www.wslhome.top/articles/2020/07/01/1593592456396.html)
 * [红黑树的基本知识](https://www.wslhome.top/articles/2020/06/29/1593441350616.html)
-* [Redis进阶--企业级解决方案](https://www.wslhome.top/articles/2020/06/24/1592967731619.html)
-* [redis进阶---redis集群（二）：（哨兵、集群）](https://www.wslhome.top/articles/2020/06/22/1592827882457.html)
 
 
 
