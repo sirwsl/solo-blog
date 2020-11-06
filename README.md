@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [jetcache踩坑记录](https://www.wslhome.top/articles/2020/11/05/1604586223250.html)
+* [服务器搭建redis集群注意事项](https://www.wslhome.top/articles/2020/11/05/1604583575387.html)
 * [读写excel表格](https://www.wslhome.top/articles/2020/10/29/1603959574713.html)
 * [map循环、迭代器](https://www.wslhome.top/articles/2020/10/28/1603814778834.html)
 * [MapStruct高效实体转化工具](https://www.wslhome.top/articles/2020/10/12/1602478908223.html)
@@ -28,8 +30,6 @@
 * [设计模式:Adapter(适配器)--类对象结构型模式](https://www.wslhome.top/articles/2020/07/29/1596016678167.html)
 * [设计模式:Singleton(单例模式)--创建型模式](https://www.wslhome.top/articles/2020/07/28/1595927146159.html)
 * [数据库连接转义字符问题](https://www.wslhome.top/articles/2020/07/28/1595866427122.html)
-* [云服务器内存不够解决办法](https://www.wslhome.top/articles/2020/07/20/1595254904833.html)
-* [solo更新](https://www.wslhome.top/articles/2020/07/08/1594191278868.html)
 
 
 
