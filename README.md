@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [实习总结（一）](https://www.wslhome.top/articles/2020/11/11/1605099731938.html)
 * [jetcache踩坑记录](https://www.wslhome.top/articles/2020/11/05/1604586223250.html)
 * [服务器搭建redis集群注意事项](https://www.wslhome.top/articles/2020/11/05/1604583575387.html)
 * [读写excel表格](https://www.wslhome.top/articles/2020/10/29/1603959574713.html)
@@ -29,7 +30,6 @@
 * [Mybatis从0到1（基础进阶教程）](https://www.wslhome.top/articles/2020/07/30/1596090643255.html)
 * [设计模式:Adapter(适配器)--类对象结构型模式](https://www.wslhome.top/articles/2020/07/29/1596016678167.html)
 * [设计模式:Singleton(单例模式)--创建型模式](https://www.wslhome.top/articles/2020/07/28/1595927146159.html)
-* [数据库连接转义字符问题](https://www.wslhome.top/articles/2020/07/28/1595866427122.html)
 
 
 
