@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [mybatis中bug——LocalDateTime处理](https://www.wslhome.top/articles/2020/11/15/1605434372351.html)
+* [rabbitMq消息重复发送，重复ack原因](https://www.wslhome.top/articles/2020/11/14/1605366150133.html)
 * [实习总结（一）](https://www.wslhome.top/articles/2020/11/11/1605099731938.html)
 * [jetcache踩坑记录](https://www.wslhome.top/articles/2020/11/05/1604586223250.html)
 * [服务器搭建redis集群注意事项](https://www.wslhome.top/articles/2020/11/05/1604583575387.html)
@@ -28,8 +30,6 @@
 * [springboot 进阶（草稿）](https://www.wslhome.top/articles/2020/08/02/1596371777184.html)
 * [热部署的那些事](https://www.wslhome.top/articles/2020/08/01/1596266112263.html)
 * [Mybatis从0到1（基础进阶教程）](https://www.wslhome.top/articles/2020/07/30/1596090643255.html)
-* [设计模式:Adapter(适配器)--类对象结构型模式](https://www.wslhome.top/articles/2020/07/29/1596016678167.html)
-* [设计模式:Singleton(单例模式)--创建型模式](https://www.wslhome.top/articles/2020/07/28/1595927146159.html)
 
 
 
